@@ -3,16 +3,14 @@
   "username": "juanpsm",
   "name": "Juamp~",
   "userimg": "https://avatars.githubusercontent.com/u/11953173?v=4",
-  "sort": "created",
-  "order": "asc",
+  "sort": "star",
+  "order": "desc",
   "includeFork": true,
   "theme": "dark.css",
   "types": [
-   "owner"
+   "all"
   ],
   "twitter": "juan_p19s",
-  "linkedin": "juanpsm",
-  "medium": null,
-  "dribbble": null
+  "linkedin": "juanpsm"
  }
 ]
